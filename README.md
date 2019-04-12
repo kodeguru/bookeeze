@@ -183,3 +183,4 @@ After that is done you should be able to run your tests, for example to run `fro
 In similar way you can run tests for other application tiers - `backend`, `console`, `common`.
 
 You can also adjust you application suite configs and `_bootstrap.php` settings to use other urls and files, as it is done in `yii2-basic`.# bookeeze
+# hotelier
